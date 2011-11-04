@@ -1,0 +1,42 @@
+[submodule "sites/all/modules/islandora"]
+	path = sites/all/modules/islandora
+	url = git://github.com/Islandora/islandora.git
+[submodule "sites/all/modules/islandora_content_model_forms"]
+	path = sites/all/modules/islandora_content_model_forms
+	url = git://github.com/Islandora/islandora_content_model_forms.git
+[submodule "sites/all/modules/islandora_solr_search"]
+	path = sites/all/modules/islandora_solr_search
+	url = git://github.com/Islandora/islandora_solr_search.git
+[submodule "sites/all/modules/islandora_solution_pack_image"]
+	path = sites/all/modules/islandora_solution_pack_image
+	url = git://github.com/Islandora/islandora_solution_pack_image.git
+[submodule "sites/all/modules/islandora_solution_pack_large_image"]
+	path = sites/all/modules/islandora_solution_pack_large_image
+	url = git://github.com/Islandora/islandora_solution_pack_large_image.git
+[submodule "sites/all/modules/islandora_xml_forms"]
+	path = sites/all/modules/islandora_xml_forms
+	url = git://github.com/Islandora/islandora_xml_forms.git
+[submodule "sites/all/modules/islandora_solution_pack_audio"]
+	path = sites/all/modules/islandora_solution_pack_audio
+	url = git://github.com/Islandora/islandora_solution_pack_audio.git
+[submodule "sites/all/modules/islandora_solution_pack_book"]
+	path = sites/all/modules/islandora_solution_pack_book
+	url = git://github.com/Islandora/islandora_solution_pack_book.git
+[submodule "sites/all/modules/islandora_solution_pack_pdf"]
+	path = sites/all/modules/islandora_solution_pack_pdf
+	url = git://github.com/Islandora/islandora_solution_pack_pdf.git
+[submodule "sites/all/modules/islandora_harvester"]
+	path = sites/all/modules/islandora_harvester
+	url = git://github.com/Islandora/islandora_harvester.git
+[submodule "sites/all/modules/islandora_solution_pack_newspaper"]
+	path = sites/all/modules/islandora_solution_pack_newspaper
+	url = git://github.com/Islandora/islandora_solution_pack_newspaper.git
+[submodule "sites/all/modules/objective_forms"]
+	path = sites/all/modules/objective_forms
+	url = git://github.com/Islandora/objective_forms.git
+[submodule "sites/all/modules/php_lib"]
+	path = sites/all/modules/php_lib
+	url = git://github.com/Islandora/php_lib.git
+[submodule "sites/all/modules/scholar"]
+	path = sites/all/modules/scholar
+	url = git://github.com/nigelgbanks/scholar.git
