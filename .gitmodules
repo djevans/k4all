@@ -40,3 +40,6 @@
 [submodule "sites/all/modules/scholar"]
 	path = sites/all/modules/scholar
 	url = git://github.com/nigelgbanks/scholar.git
+[submodule "sites/all/modules/content_model_viewer"]
+	path = sites/all/modules/content_model_viewer
+	url = git://github.com/nigelgbanks/content_model_viewer.git
