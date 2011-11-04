@@ -1,0 +1,7 @@
+sites/*/settings/*.php
+
+/backup
+/tmp
+sites/*/files
+sites/*/private
+
