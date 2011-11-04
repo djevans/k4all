@@ -4,9 +4,6 @@
 [submodule "sites/all/modules/islandora_content_model_forms"]
 	path = sites/all/modules/islandora_content_model_forms
 	url = git://github.com/Islandora/islandora_content_model_forms.git
-[submodule "sites/all/modules/islandora_solr_search"]
-	path = sites/all/modules/islandora_solr_search
-	url = git://github.com/Islandora/islandora_solr_search.git
 [submodule "sites/all/modules/islandora_solution_pack_image"]
 	path = sites/all/modules/islandora_solution_pack_image
 	url = git://github.com/Islandora/islandora_solution_pack_image.git
@@ -43,3 +40,6 @@
 [submodule "sites/all/modules/content_model_viewer"]
 	path = sites/all/modules/content_model_viewer
 	url = git://github.com/nigelgbanks/content_model_viewer.git
+[submodule "sites/all/modules/islandora_solr_search"]
+	path = sites/all/modules/islandora_solr_search
+	url = git://github.com/Islandora/islandora_solr_search.git
