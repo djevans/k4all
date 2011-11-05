@@ -1,0 +1,4 @@
+; $Id$
+name = Islandora Journal Solution Pack
+description = Provides a Content Model and Collection for scholarly journals.
+core = 6.x

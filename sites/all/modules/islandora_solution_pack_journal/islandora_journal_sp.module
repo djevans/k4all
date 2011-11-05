@@ -1,0 +1,14 @@
+<?php
+
+function islandora_journal_sp_required_fedora_objects() {
+  return array(
+    'module' => 'islandora_journal_sp',
+    'label' => 'Islandora Journal Solution Pack',
+    'objects' => array(
+      array(
+        'pid' => 'JournalCModel',
+        'cmodel' => 'fedora-system:CModel-3.0',
+      ),
+    )
+  ),
+}
