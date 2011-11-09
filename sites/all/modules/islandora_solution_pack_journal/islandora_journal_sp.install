@@ -1,9 +1,0 @@
-<?php
-
-function islandora_journal_sp_install() {
-  /* load forms */
-}
-
-function islandora_journal_sp_uninstall() {
-
-}
