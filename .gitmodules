@@ -43,7 +43,6 @@
 [submodule "sites/all/modules/islandora_solr_search"]
 	path = sites/all/modules/islandora_solr_search
 	url = git://github.com/Islandora/islandora_solr_search.git
-
 [submodule "sites/all/modules/islandora_solution_pack_journal"]
 	path = sites/all/modules/islandora_solution_pack_journal
 	url = git@github.com:djevans/islandora_solution_pack_journal.git
