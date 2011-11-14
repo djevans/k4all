@@ -1,5 +1,7 @@
 sites/*/settings/*.php
-
+.buildpath
+.project
+.settings
 /backup
 /tmp
 sites/*/files
