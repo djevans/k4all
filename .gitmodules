@@ -46,3 +46,9 @@
 [submodule "sites/all/modules/islandora_solution_pack_journal"]
 	path = sites/all/modules/islandora_solution_pack_journal
 	url = git@github.com:djevans/islandora_solution_pack_journal.git
+[submodule "sites/all/modules/iso_639_3"]
+	path = sites/all/modules/iso_639_3
+	url = git@github.com:djevans/iso_639_3.git
+[submodule "sites/all/modules/language_proficiency"]
+	path = sites/all/modules/language_proficiency
+	url = git@github.com:djevans/language_proficiency.git
