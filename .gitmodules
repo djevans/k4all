@@ -22,9 +22,6 @@
 [submodule "sites/all/modules/islandora_solution_pack_pdf"]
 	path = sites/all/modules/islandora_solution_pack_pdf
 	url = git://github.com/Islandora/islandora_solution_pack_pdf.git
-[submodule "sites/all/modules/islandora_harvester"]
-	path = sites/all/modules/islandora_harvester
-	url = git://github.com/Islandora/islandora_harvester.git
 [submodule "sites/all/modules/islandora_solution_pack_newspaper"]
 	path = sites/all/modules/islandora_solution_pack_newspaper
 	url = git://github.com/Islandora/islandora_solution_pack_newspaper.git
@@ -52,3 +49,6 @@
 [submodule "sites/all/modules/language_proficiency"]
 	path = sites/all/modules/language_proficiency
 	url = git@github.com:djevans/language_proficiency.git
+[submodule "sites/all/modules/islandora_harvester"]
+	path = sites/all/modules/islandora_harvester
+	url = git@github.com:djevans/islandora_harvester
