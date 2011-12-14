@@ -51,4 +51,7 @@
 	url = git@github.com:djevans/language_proficiency.git
 [submodule "sites/all/modules/islandora_harvester"]
 	path = sites/all/modules/islandora_harvester
-	url = git@github.com:djevans/islandora_harvester
+	url = git@github.com:djevans/islandora_harvester.git
+[submodule "sites/all/modules/islandora_feeds"]
+	path = sites/all/modules/islandora_feeds
+	url = git@github.com:djevans/islandora_feeds.git
