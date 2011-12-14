@@ -58,3 +58,6 @@
 [submodule "sites/all/modules/islandora_workflow"]
 	path = sites/all/modules/islandora_workflow
 	url = git://github.com/discoverygarden/IslandoraWorkflow.git
+[submodule "sites/all/modules/islandora_fedora_api"]
+	path = sites/all/modules/islandora_fedora_api
+	url = git://github.com/Islandora/islandora_fedora_api.git
