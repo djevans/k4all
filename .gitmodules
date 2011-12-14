@@ -55,3 +55,6 @@
 [submodule "sites/all/modules/islandora_feeds"]
 	path = sites/all/modules/islandora_feeds
 	url = git@github.com:djevans/islandora_feeds.git
+[submodule "sites/all/modules/islandora_workflow"]
+	path = sites/all/modules/islandora_workflow
+	url = git://github.com/discoverygarden/IslandoraWorkflow.git
