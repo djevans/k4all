@@ -1,4 +1,4 @@
-sites/*/settings/*.php
+sites/*/settings.php
 .buildpath
 .project
 .settings
@@ -6,4 +6,4 @@ sites/*/settings/*.php
 /tmp
 sites/*/files
 sites/*/private
-
+.DS_Store
