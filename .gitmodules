@@ -58,3 +58,6 @@
 [submodule "sites/all/modules/islandora_solution_pack_article"]
 	path = sites/all/modules/islandora_solution_pack_article
 	url = git@github.com:djevans/islandora_solution_pack_article.git
+[submodule "sites/all/modules/islandora"]
+	path = sites/all/modules/islandora
+	url = git@github.com:djevans/islandora.git
