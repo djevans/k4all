@@ -83,7 +83,7 @@ function http_request_get_common_syndication($url, $settings = NULL) {
  *  A stdClass object that describes the data downloaded from $url. The object's
  *  data property contains the actual document at the URL.
  */
-function http_request_get($url, $username = NULL, $password = NULL, $accept_invalid_cert = FALSE) {
+function http_request_get($url, $username = NULL, $password = NULL, $accept_invalid_cert = TRUE) {
   // Intra-pagedownload cache, avoid to download the same content twice within one page download (it's possible, compatible and parse calls).
   static $download_cache = array();
   if (isset($download_cache[$url])) {
@@ -125,6 +125,7 @@ function http_request_get($url, $username = NULL, $password = NULL, $accept_inva
   $url = strtr($url, array('feed://' => 'http://', 'webcal://' => 'http://'));
 
   if ($curl) {
+    
     $headers[] = 'User-Agent: Drupal (+http://drupal.org/)';
     $result = new stdClass();
 
@@ -192,7 +193,7 @@ function http_request_get($url, $username = NULL, $password = NULL, $accept_inva
       curl_close($download);
     }
   }
-  else {
+  else {    
     $result = drupal_http_request($url, $headers);
   }
 
