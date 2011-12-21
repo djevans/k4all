@@ -61,3 +61,6 @@
 [submodule "sites/all/modules/islandora_fedora_api"]
 	path = sites/all/modules/islandora_fedora_api
 	url = git://github.com/Islandora/islandora_fedora_api.git
+[submodule "sites/all/modules/islandora_solution_pack_article"]
+	path = sites/all/modules/islandora_solution_pack_article
+	url = git@github.com:djevans/islandora_solution_pack_article.git
