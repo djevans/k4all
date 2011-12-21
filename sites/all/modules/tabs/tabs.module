@@ -124,7 +124,8 @@ function tabs_load() {
     $path = drupal_get_path('module', 'tabs');
     // TODO: make this a dependency in D7.
     if (module_exists('jquery_ui')) {
-      jquery_ui_add(array('ui.tabs'));
+      jquery_ui_add(array('jquery.ui.widget')); // djevans
+      jquery_ui_add(array('jquery.ui.tabs')); // djevans
     }
     else {
       drupal_add_js($path . '/ui.core.js');
