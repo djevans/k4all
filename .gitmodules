@@ -1,6 +1,3 @@
-[submodule "sites/all/modules/islandora"]
-	path = sites/all/modules/islandora
-	url = git://github.com/djevans/islandora.git
 [submodule "sites/all/modules/islandora_content_model_forms"]
 	path = sites/all/modules/islandora_content_model_forms
 	url = git://github.com/Islandora/islandora_content_model_forms.git
