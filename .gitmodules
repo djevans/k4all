@@ -61,3 +61,6 @@
 [submodule "sites/all/modules/islandora"]
 	path = sites/all/modules/islandora
 	url = git@github.com:djevans/islandora.git
+[submodule "sites/all/modules/islandora_authority"]
+	path = sites/all/modules/islandora_authority
+	url = git@github.com:discoverygarden/islandora_authority.git
